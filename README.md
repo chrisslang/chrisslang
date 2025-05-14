@@ -12,7 +12,7 @@
 
 #
 
-<img align="right" alt="" height="200px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRmdXJvczZtNmNpMG1qYzBnd2N1OTVuMjMzY2E5Y2hoODV3aHJiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9DPzhNGA8MKjxwFG/giphy.gif">
+<img align="right" alt="" height="190px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRmdXJvczZtNmNpMG1qYzBnd2N1OTVuMjMzY2E5Y2hoODV3aHJiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9DPzhNGA8MKjxwFG/giphy.gif">
 
 <h3 align="left">🍀​ Conecte-se comigo!</h3>
 
