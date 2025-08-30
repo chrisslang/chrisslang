@@ -26,9 +26,16 @@
 <h3 align="left">✅​​ Stacks</h3>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-1C4728?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="html5 logo" />
-  <img src="https://img.shields.io/badge/CSS3-4C6F50?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="css3 logo" />
-  <img src="https://img.shields.io/badge/Python-1C4728?style=for-the-badge&logo=python&logoColor=white" height="30" alt="python logo" />
+<img src="https://img.shields.io/badge/PostgreSQL-1C4728?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="postgresql logo" />
+<img src="https://img.shields.io/badge/MySQL-4C6F50?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="mysql logo" />
+<img src="https://img.shields.io/badge/Python-1C4728?style=for-the-badge&logo=python&logoColor=white" height="30" alt="python logo" />
+<img src="https://img.shields.io/badge/Java-4C6F50?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="java logo" />
+<img src="https://img.shields.io/badge/CSS3-1C4728?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="css3 logo" />
+<br>
+<img src="https://img.shields.io/badge/HTML5-4C6F50?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="html5 logo" />
+<img src="https://img.shields.io/badge/JavaScript-1C4728?style=for-the-badge&logo=javascript&logoColor=white" height="30" alt="javascript logo" />
+<img src="https://img.shields.io/badge/Excel-4C6F50?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="30" alt="excel logo" />
+<img src="https://img.shields.io/badge/GitHub-1C4728?style=for-the-badge&logo=github&logoColor=white" height="30" alt="github logo" />
 </div>
 
 #
